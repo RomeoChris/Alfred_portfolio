@@ -219,6 +219,13 @@ nav ul li a {
 
 .logo {
   float: left;
+  font-size: 28px;
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
 }
 
 .logo img {
